@@ -12,5 +12,20 @@ public class TestController {
 	{
 		return "Welcome Sandeep";
 	}
+	
+	public String getAge()
+	{
+		return "Welcome Sandeep";
+	}
+	
+	public String getAge()
+	{
+		return "Welcome Sandeep";
+	}
+	
+	public String getFatherName()
+	{
+		return "Welcome Sandeep";
+	}
 
 }
